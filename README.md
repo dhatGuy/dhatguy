@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 I'm a computer science graduate and a self taught full-stack developer with a passion for building scalable web applications and working across the entire stack. I've worked on several web applications that use React.js, Node.js, Typescript, PostgreSQL, and GraphQL.
 
-In my spare time, I enjoy reading technical articles and aspire to be a consistent technical writer.
+<!-- In my spare time, I enjoy reading technical articles and I aspire to be a consistent technical writer. -->
 
 I'm looking forward to working with a team, improving my talents, and experimenting with new technologies.
 
