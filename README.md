@@ -39,7 +39,7 @@ In my spare time, I enjoy reading technical articles and aspire to be a consiste
 
 I'm looking forward to working with a team, improving my talents, and experimenting with new technologies.
 
-Checkout my [resume](https://github.com/dhatGuy/dhatguy/files/8243315/ea3bee43-136b-4844-ade0-e203c00351ea.pdf)
+<!-- Checkout my [resume](https://github.com/dhatGuy/dhatguy/files/8243315/ea3bee43-136b-4844-ade0-e203c00351ea.pdf) -->
 
 ### Favorite Quote 
 > The flower doesn't dream of the bee. It blossoms and the bee comes.
