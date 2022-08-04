@@ -33,13 +33,9 @@ Here are some ideas to get you started:
 ---
 ### 👋 Hey, I'm Joseph!
 
-I'm a computer science graduate and a self taught full-stack developer with a passion for building scalable web applications and working across the entire stack. I've worked on several web applications that use React.js, Node.js, Typescript, PostgreSQL, and GraphQL.
+I'm a computer science graduate and a self taught full-stack developer with a passion for building scalable web applications and working across the entire stack. I've worked on several web applications that use React.js, React Native, Node.js, Typescript, PostgreSQL, and GraphQL.
 
-<!-- In my spare time, I enjoy reading technical articles and I aspire to be a consistent technical writer. -->
-
-I'm looking forward to working with a team, improving my talents, and experimenting with new technologies.
-
-<!-- Checkout my [resume](https://github.com/dhatGuy/dhatguy/files/8243315/ea3bee43-136b-4844-ade0-e203c00351ea.pdf) -->
+👯 I'm looking forward to working with a team, improving my talents, and experimenting with new technologies.
 
 ### Favorite Quote 
 > The flower doesn't dream of the bee. It blossoms and the bee comes.
@@ -48,4 +44,4 @@ I'm looking forward to working with a team, improving my talents, and experiment
 
 ---
 
-[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhatguy&layout=compact&theme=dark&custom_title=Wakatime%20Week%20Stats)](https://wakatime.com/@dhatguy)
+[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhatguy&layout=compact&theme=dark&custom_title=Wakatime%20Stats)](https://wakatime.com/@dhatguy)
