@@ -44,4 +44,4 @@ I'm a computer science graduate and a self-taught full-stack developer passionat
 
 ---
 
-[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhatguy&layout=compact&theme=dark&custom_title=Wakatime%20Stats)](https://wakatime.com/@odunsi)
+[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odunsi&layout=compact&theme=dark&custom_title=Wakatime%20Stats)](https://wakatime.com/@odunsi)
