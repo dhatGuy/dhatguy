@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 ### 👋 Hey, I'm Joseph!
 
-I'm a computer science graduate and a self taught full-stack developer with a passion for building scalable web applications and working across the entire stack. I've worked on several web applications that use React.js, React Native, Node.js, Typescript, PostgreSQL, and GraphQL.
+I'm a computer science graduate and a self-taught full-stack developer passionate about building scalable web applications and working across the entire stack. I've worked on several web applications that use React.js, React Native, Node.js, Typescript, PostgreSQL, and GraphQL.
 
 👯 I'm looking forward to working with a team, improving my talents, and experimenting with new technologies.
 
@@ -44,4 +44,4 @@ I'm a computer science graduate and a self taught full-stack developer with a pa
 
 ---
 
-[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhatguy&layout=compact&theme=dark&custom_title=Wakatime%20Stats)](https://wakatime.com/@dhatguy)
+[![dhatguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhatguy&layout=compact&theme=dark&custom_title=Wakatime%20Stats)](https://wakatime.com/@odunsi)
